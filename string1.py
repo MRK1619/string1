@@ -1,4 +1,4 @@
-# Find The Valid Palidrome Or Not
+#The Valid Palidrome 
 class Partha(object):
  def isPalindrome(self, s: str) -> bool:
     l = 0
